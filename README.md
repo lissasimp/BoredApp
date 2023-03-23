@@ -24,7 +24,7 @@ In our team, we have conceived and created our first collaborative front-end, si
 - **THEN** user will be taken to Google search results
 
 ## Usage
-Deployed Page: https://bored-app-rkll.netlify.app/
+Deployed Page: https://boredappproj.netlify.app/
 ![Home Page](./src/assets/images/startUpScreen.png)
 ![Activity Cards](./src/assets/images/cardsPage.png)
 ![Hover Function](./src/assets/images/cardsText.png)
