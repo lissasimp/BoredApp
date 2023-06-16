@@ -1,7 +1,21 @@
 # Bored?
 
-## Features
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Table of Contents
+- [Features](#features)
+- [User Story](#user-story)
+- [Installation](#installation)
+- [Links](#links)
+- [Technology Used](#technology-used)
+- [APIs Used](#apis-used)
+- [APIs Used](#apis-used)
+- [NPM Modules Used](#npm-modules-used)
+- [Credits](#credits)
+- [Collaborators](#collaborators)
+- [Permission](#permission)
+
+## Features
 ### This application has the following features:
 
 - A user can generate activities with data from boredapi.
@@ -59,14 +73,14 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-
-## Usage
+## Links
 Deployed Page: https://boredappproj.netlify.app/
-![Modal](./src/assets/images/YouTube.png)![Home](https://github.com/lissasimp/BoredApp/assets/116848303/b3cca6a6-64b0-435c-b3a3-43ae4f2c12e8)
-![Projects](https://github.com/lissasimp/BoredApp/assets/116848303/3f90b884-c088-4220-8ea7-4302d52498fd)
-![contacts](https://github.com/lissasimp/BoredApp/assets/116848303/efdd7960-0814-4017-8ca1-abae06e994ce)
+![Home Page](https://github.com/lissasimp/BoredApp/assets/116848303/f60fb15b-949b-47dd-a568-a32a896428e2)
+![Cards](https://github.com/lissasimp/BoredApp/assets/116848303/477b5f14-c5ff-4bbb-b087-3aa5e798094f)
+![Hover Cards](https://github.com/lissasimp/BoredApp/assets/116848303/3f8c113b-528a-41c4-a410-0573510443eb)
+![YouTube](https://github.com/lissasimp/BoredApp/assets/116848303/f94da742-8ea5-44ac-b927-fdb1d74c073b)
 
-## Technologies Used
+## Technology Used
 - Postman: https://web.postman.co/
 - Figma: https://www.figma.com/
 - VS Code: https://code.visualstudio.com/
@@ -78,7 +92,7 @@ Deployed Page: https://boredappproj.netlify.app/
 - YouTube API: https://developers.google.com/youtube/v3
 - Bored API: https://www.boredapi.com/
 
-## NPM Modules used
+## NPM Modules Used
 - React SVG Drawing: https://www.npmjs.com/package/react-svg-drawing
 - React Icons: https://www.npmjs.com/package/react-icons
 - Animejs: https://www.npmjs.com/package/animejs
@@ -91,27 +105,14 @@ The following websites were used to support this project:
 - https://css-tricks.com/scale-svg/
 - https://www.youtube.com/watch?v=3RvQJX1_fKQ&t=618s
 
-
-## Colloborators
+## Collaborators
 - Rita Fitchett https://github.com/reets93
 - Kamel Beloula https://github.com/kamel-beloula
 - Lidia Bhogal https://github.com/LidiaBhogal
 - Lissa Simpson https://github.com/lissasimp
 
-## Project Presentation
-https://docs.google.com/presentation/d/1i6_o-dKMwr9Z_J4mNsmY9knlEVSNyBfS3uqAzZnFHhw/edit?usp=sharing 
-
 ## Permission
 I'm happy for you to use the code or parts of the code for your own site, it is open source so people can learn from it and adapt it. However, I would encourage you to modify the theme and components to make it your own. If you are using the site's design largely unmodified, I'd appreciate all collaborators (listed above) being credited as the designers of the website.
 
 I do not give permission to present any of my projects as your own.
-
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
