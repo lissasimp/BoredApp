@@ -9,7 +9,6 @@
 - [Links](#links)
 - [Technology Used](#technology-used)
 - [APIs Used](#apis-used)
-- [APIs Used](#apis-used)
 - [NPM Modules Used](#npm-modules-used)
 - [Credits](#credits)
 - [Collaborators](#collaborators)
