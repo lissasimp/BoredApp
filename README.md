@@ -1,27 +1,62 @@
 # Bored?
 
-In our team, we have conceived and created our first collaborative front-end, single-page application. We have created a React front end to build a user-focused platform. We used agile development methodologies to help us work collaboratively. We stored our project code in GitHub, managing our work with a project management tool, and implemented features and bug fixes using the Git branch workflow and pull requests. We have used everything we’ve learned during the bootcamp to create a real-world client-side single-page application that we’ll be able to showcase to potential employers. 
+## Features
+
+### This application has the following features:
+
+- A user can generate activities with data from boredapi.
+- The application displays 9 different activities with an image and a short description of each activity.
+- There is the option for the user to explore further by watching a YouTube video linked to the activity or search for more information on Google.
 
 ## User Story
+As a mobile device user, I would like an application that allows me to search for activities to do so that I can use my time wisely instead of wasting it on social media.  When I click search, I am presented with 9 different activities that change each time and are presented in a clear, easy to read format. I can explore further options on YouTube and Google.
 
-- **AS** a mobile device user
-- **I WANT** to use my time wisely rather than wasting it on social media
-- **SO THAT** I can find new things to do at  the click of a button
+## Installation
+# Getting Started with Create React App
 
-## Acceptance Criteria
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- **WHEN** viewing GitHub repo
-- **THEN** folder structure is correct (index.html, CSS folder, style.css, images folder)
-- **WHEN** web page viewed
-- **THEN** only animation, quote and button are visisble
-- **WHEN** 'Click Here' is pressed
-- **THEN** 9 cards are dynamically generated with data from boredapi
-- **WHEN** a user hovers on a card
-- **THEN** title, information about an activty and button scrolls in from the right
-- **WHEN** 'Explore' button is pressed
-- **THEN** a modal appears with YouTube video linked to specific card and Google search bar
-- **WHEN** user inputs search category into Google Search bar
-- **THEN** user will be taken to Google search results
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
 
 ## Usage
 Deployed Page: https://boredappproj.netlify.app/
@@ -65,8 +100,17 @@ The following websites were used to support this project:
 ## Project Presentation
 https://docs.google.com/presentation/d/1i6_o-dKMwr9Z_J4mNsmY9knlEVSNyBfS3uqAzZnFHhw/edit?usp=sharing 
 
+## Permission
+I'm happy for you to use the code or parts of the code for your own site, it is open source so people can learn from it and adapt it. However, I would encourage you to modify the theme and components to make it your own. If you are using the site's design largely unmodified, I'd appreciate all collaborators (listed above) being credited as the designers of the website.
+
+I do not give permission to present any of my projects as your own.
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
